@@ -1,0 +1,9 @@
+{
+  "name": "mongo",
+  "connector": "mongodb",
+  "url": "mongodb+srv://admin-screen-engine:screen123@sceen-engine-f4ckr.gcp.mongodb.net/screen-engine",
+  "password": "screen123",
+  "user": "admin-screen-engine",
+  "database": "screen-engine",
+  "useNewUrlParser": true
+}
